@@ -1,6 +1,6 @@
 // Döviz Uygulaması
 
-let key = "e1a5b13a3d13f686b1cc9161";
+let key = "[your_key]";
 let url = `https://v6.exchangerate-api.com/v6/${key}/latest/USD`;
 let bölge1 = document.getElementById("fromCurrency");
 let bölge2 = document.getElementById("toCurrency");
